@@ -341,3 +341,4 @@ Montgomery, Texas, United States
 Denver, CO
 Monterrey, MX
 Boulder, CO
+I am typing from command line
