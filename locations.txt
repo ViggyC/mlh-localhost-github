@@ -340,5 +340,6 @@ Bangalore, India
 Montgomery, Texas, United States
 Denver, CO
 Monterrey, MX
-Littleton, Colordao
+Boulder, CO
+I am typing from command line
 
